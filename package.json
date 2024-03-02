@@ -1,0 +1,26 @@
+{
+"name": "crushdic-1",
+"version": "1.0.0",
+"description": "This project is a repository for collecting and showcasing various cutting-edge technologies and best practices, covering various fields from artificial intelligence and machine learning to web development and mobile application development.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "你的git地址"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "git@github.com:crushdic/crushdic-1.git",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
